@@ -1,0 +1,30 @@
+============================================================
+  GITHUB REPOSITORY — DESCRIPTION & TOPICS
+============================================================
+
+DESCRIPTION:
+------------------------------------------------------------
+MiniTool Partition Wizard — resize partitions, convert MBR to GPT, and migrate OS to SSD. Fully compatible with Windows 10/11 (64-bit). Updated for 2026 with regular maintenance and community support.
+
+============================================================
+
+TOPICS / TAGS:
+------------------------------------------------------------
+data-tools
+disk-tools
+mbr-to-gpt
+migrate-os-ssd
+minitool
+minitool-partition-wizard
+minitool-partition-wizard-2026
+minitool-partition-wizard-download
+partition-manager
+partition-wizard-2026
+partition-wizard-download
+windows-tools-2026
+
+============================================================
+
+SEO KEYWORDS:
+------------------------------------------------------------
+minitool partition wizard, minitool partition wizard download, minitool partition wizard 2026, minitool partition wizard, partition wizard download, partition wizard 2026, mbr to gpt, migrate os ssd, free software 2026, pc software download
